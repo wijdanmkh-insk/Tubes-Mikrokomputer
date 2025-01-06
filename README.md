@@ -1,5 +1,12 @@
-# Tubes-Mikrokomputer
-Containing final project of Microcomputer Basics, the components are consisting of : 
+# Microcomputer Basics Final Test
+## Preface
+This repo containing of .ino file to run the small project of microcomputer basics. Verify and upload the file from Arduino IDE. This project run 8 LEDs in 3 commands : 
+1. Turning on the middle lane of the LED sequences, and spreading to the edges. 
+2. Showing voltage value through the LED sequences, the higher the voltage value, more LEDs are turned on.
+3. Using interrupt button 
+
+## Hardware Requirements
+The required hardware components consisting of : 
 1. Atmega 328P
 2. LED x 8 + 220 ohm resistor x 8
 3. Breadboard
